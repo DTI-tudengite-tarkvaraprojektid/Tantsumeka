@@ -3,7 +3,7 @@
 # Pilt avalehest
 ![alt text](Capture.PNG)
 
-#Eesmärk
+# Eesmärk
 Luua uus leht nimega Tantsumeka. Klient soovis lehele uut disaini, poodi, foorumit ning registreerimisvormi.
 
 # Projekt tehti suveprojekti raames Tallinna Ülikoolis
