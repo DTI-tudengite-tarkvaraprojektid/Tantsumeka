@@ -19,4 +19,10 @@ Cyberlink PowerDirector
 Riho Noormets, Egert Piksar, Kert Tamm, Kevin Kodasma, Egert Klaamas
 
 # Paigaldusjuhised
-Leht on üleval www.egertpiksar.ee
+1. Minge serverisse, kus leht üleval on  
+2. Minge kausta public_html  
+3. Kõik failid seal kaustas laadige alla  
+4. Laadige failid üles uude serveri  
+5. Vajadusel registreerige uus domeen  
+6. wp-config.php kaudu tuleb uuendada wordpress andmebaasi nime, kasutajanime ning parooli  
+7. Vaheta nimeserverid õigete vastu  
