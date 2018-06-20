@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 20/06/2018 09:43
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.6
+PHP INFO:	7.2.4 | SAPI: cgi-fcgi
+SERVER:		Apache / ZoneOS 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (512M default) 
+MEMORY STACK: 14MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from /opt/zone/bin/mysqldump 
+TABLES: total:78 | filtered:0 | create:78 
+SQL CREATED: tantsumeka_b20747c9ee67250d7273180620094304_database.sql 
+SQL FILE SIZE: 10.96MB (11490080) 
+SQL FILE TIME: 2018-06-20 09:43:48 
+SQL RUNTIME: 0.34 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /data03/virt73525/domeenid/www.egertpiksar.ee/htdocs 
+ARCHIVE FILE: tantsumeka_b20747c9ee67250d7273180620094304_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	193.27MB 
+STATS:	Dirs 1,554 | Files 10,383 
+SQL ADDED: tantsumeka_b20747c9ee67250d7273180620094304_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 11937
+    [filename] => /data03/virt73525/domeenid/www.egertpiksar.ee/htdocs/wp-snapshots/tmp/tantsumeka_b20747c9ee67250d7273180620094304_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 93.63MB 
+ARCHIVE RUNTIME: 14.72 sec. 
+MEMORY STACK: 18MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/data03/virt73525/domeenid/www.egertpiksar.ee/htdocs/wp-snapshots/tmp/tantsumeka_b20747c9ee67250d7273180620094304_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 10.96MB 
+Installer File: 445.88KB 
+Archive File: 93.63MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 15.37 sec.
+PEAK PHP MEMORY USED: 20MB
+DONE PROCESSING => tantsumeka 20/06/2018 09:44
+ 
